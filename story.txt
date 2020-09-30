@@ -12,4 +12,5 @@ as a ten-year-old. On the ride to the exciting new destination, where he was to 
 arose an unsettling rumble. The ferry started to vibrate violently, along with the ocean water. The ferryman and Ash looked forward to Cinnabar Island and saw its
 volcano about to erupt. They changed course and turned around while Ash witnessed lava and dust spew from the mouth of Cinnabar Volcano. Ash and his Pokémon were not harmed 
 by the eruption, and he soon returned to the southern coast of the Kanto region. Looking back at the island, covered in lava and shrouded in dust, Ash picked up on an unfamiliar 
-aircraft heading away from the island: a hot air balloon designed after a Meowth. What is this mysterious balloon doing, and how will Ash move forward in his journey to be 'the very best, like no one ever was'? Find out on the next episode of CS400 GitHub Exercise Pokémon!
+aircraft heading away from the island: a hot air balloon designed after a Meowth. What is this mysterious balloon doing, and how will Ash move forward in his journey to be 'the
+very best, like no one ever was'? Find out on the next episode of CS400 GitHub Exercise Pokémon!
