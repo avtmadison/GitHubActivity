@@ -6,3 +6,10 @@ was.' One day as he entered Saffron City with his new friends Brock and Misty, t
 As Ash was walking around Saffron City, he noticed a huge building that was called the Saffron City Gym. Being the enthusiastic trainer that he is, he wanted to take on the gym
 leader, Sabrina, in order to win the Marsh Badge from her. He gathered all the Steel and Dark types he could for his team and went to battle against Sabrina. He took on Sabrina
 and after an intense battle, won against her too! With the Marsh Badge in his hand, he walked to the next stop: Cinnabar Island.
+
+Unfortunately, Ash could not travel on foot all the way to Cinnabar Island: it was an island. He ended up paying for a ferry to the volcanic island, with what little funds he had
+as a ten-year-old. On the ride to the exciting new destination, where he was to test his skills as a Pokémon trainer against famous Fire-type specialist Blaine, though, there 
+arose an unsettling rumble. The ferry started to vibrate violently, along with the ocean water. The ferryman and Ash looked forward to Cinnabar Island and saw its
+volcano about to erupt. They changed course and turned around while Ash witnessed lava and dust spew from the mouth of Cinnabar Volcano. Ash and his Pokémon were not harmed 
+by the eruption, and he soon returned to the southern coast of the Kanto region. Looking back at the island, covered in lava and shrouded in dust, Ash picked up on an unfamiliar 
+aircraft heading away from the island: a hot air balloon designed after a Meowth. What is this mysterious balloon doing, and how will Ash move forward in his journey to be 'the very best, like no one ever was'? Find out on the next episode of CS400 GitHub Exercise Pokémon!
